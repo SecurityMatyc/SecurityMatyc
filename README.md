@@ -26,9 +26,10 @@ Busco mejorar cada día mis habilidades, aprender herramientas nuevas y construi
 ### 🛠️ Tecnologías que utilizo
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,sqlite,linux,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,django,sqlite,linux,aws,github&theme=dark" />
   </a>
 </p>
+
 
 <hr style="border:0;border-top:1px solid #30363d;opacity:0.5;margin:18px 0;" />
 
