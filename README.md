@@ -42,7 +42,7 @@ Disfruto investigar vulnerabilidades y aprender nuevas herramientas para diseña
 <hr style="border:0;border-top:1px solid #30363d;opacity:0.5;margin:18px 0;" />
 
 ### 📫 Contacto
-- Email institucional: **matias.gajardo@inacapmail.cl**  
+- Email institucional: **matias.gajardo24@inacapmail.cl**  
 - Email personal: **mathi25gaj@gmail.com**
 
 <p align="center" style="opacity:0.6;font-size:12px;margin-top:12px;">
