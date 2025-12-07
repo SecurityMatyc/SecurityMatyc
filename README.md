@@ -6,7 +6,7 @@
   Estudiante de Ingeniería en Ciberseguridad — Chile
 </p>
 
-<hr style="border:0;height:1px;background:linear-gradient(90deg,#0d1117,#ff4b4b,#0d1117);box-shadow:0 0 10px rgba(255,75,75,0.55);opacity:0.9;margin:18px 0;border-radius:999px;" />
+<hr style="border:0;border-top:1px solid #30363d;opacity:0.5;margin:18px 0;" />
 
 
 <p align="center">
