@@ -6,12 +6,11 @@
   Estudiante de Ingeniería en Ciberseguridad — Chile
 </p>
 
-<!-- Banner -->
 <p align="center">
   <img
     src="AQUÍ_VA_TU_URL_DE_IMAGEN"
     alt="Cybersecurity banner"
-    style="max-width:900px;width:100%;max-height:420px;object-fit:cover;border-radius:12px;border:1px solid #30363d;display:block;"
+    style="max-width:900px;width:100%;max-height:380px;object-fit:cover;border-radius:12px;border:1px solid #30363d;display:block;"
   />
 </p>
 
