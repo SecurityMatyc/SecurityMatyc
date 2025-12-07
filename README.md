@@ -6,13 +6,24 @@
   Estudiante de Ingeniería en Ciberseguridad — Chile
 </p>
 
----
+<!-- Banner -->
+<p align="center">
+  <a href="https://github.com/SecurityMatyc">
+    <img
+      src="https://images.pexels.com/photos/5380649/pexels-photo-5380649.jpeg"  <!-- CAMBIA ESTA URL POR TU IMAGEN -->
+      alt="Cybersecurity banner"
+      style="width:100%;max-width:900px;border-radius:12px;border:1px solid #30363d;"
+    />
+  </a>
+</p>
+
+<hr style="border:0;border-top:1px solid #30363d;opacity:0.5;margin:18px 0;" />
 
 ### 🌘 Sobre mí
 Me interesa la ciberseguridad, el análisis técnico y el desarrollo de proyectos que integren lógica, diseño y tecnología.  
 Busco mejorar cada día mis habilidades, aprender herramientas nuevas y construir soluciones con un enfoque claro y preciso.
 
----
+<hr style="border:0;border-top:1px solid #30363d;opacity:0.5;margin:18px 0;" />
 
 ### 🛠️ Tecnologías que utilizo
 <p align="center">
@@ -21,29 +32,12 @@ Busco mejorar cada día mis habilidades, aprender herramientas nuevas y construi
   </a>
 </p>
 
----
-
-### 📊 Estadísticas
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=SecurityMatyc&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=synthwave&custom_title=Actividad%20General"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SecurityMatyc&layout=compact&hide_border=true&theme=synthwave"
-  />
-</p>
-
----
+<hr style="border:0;border-top:1px solid #30363d;opacity:0.5;margin:18px 0;" />
 
 ### 📫 Contacto
 - Email institucional: **matias.gajardo@inacapmail.cl**  
 - Email personal (opcional): *(si quieres agregarlo)*
 
----
-
-<p align="center" style="opacity:0.6;font-size:12px;">
+<p align="center" style="opacity:0.6;font-size:12px;margin-top:12px;">
   Gracias por visitar mi perfil.
 </p>
-
