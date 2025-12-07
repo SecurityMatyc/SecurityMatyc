@@ -8,7 +8,7 @@
 
 <p align="center">
   <img
-    src="AQUÍ_VA_TU_URL_DE_IMAGEN"
+    src="https://images.pexels.com/photos/5380649/pexels-photo-5380649.jpeg"
     alt="Cybersecurity banner"
     style="max-width:900px;width:100%;max-height:380px;object-fit:cover;border-radius:12px;border:1px solid #30363d;display:block;"
   />
