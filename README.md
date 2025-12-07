@@ -10,7 +10,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cybersecurity%20Student-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django%20|%20Linux%20|%20AWS-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 ### 🌘 Sobre mí
@@ -43,4 +42,5 @@ Busco mejorar cada día mis habilidades, aprender herramientas nuevas y construi
 - Email personal: **mathi25gaj@gmail.com**
 
 <p align="center" style="opacity:0.6;font-size:12px;margin-top:12px;">
+  Gracias por visitar mi perfil
 </p>
