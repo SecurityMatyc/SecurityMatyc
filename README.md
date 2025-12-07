@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Estudiante de Ingeniería en Ciberseguridad — Chile  
+  Estudiante de Ingeniería en Ciberseguridad — Chile
 </p>
 
 ---
@@ -15,16 +15,24 @@ Busco mejorar cada día mis habilidades, aprender herramientas nuevas y construi
 ---
 
 ### 🛠️ Tecnologías que utilizo
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,django,sqlite,mysql,git,github,linux" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,sqlite,linux,github&theme=dark" />
+  </a>
 </p>
 
 ---
 
 ### 📊 Estadísticas
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SecurityMatyc&show_icons=true&hide_border=true&count_private=true&theme=github_dark&custom_title=Actividad%20General" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SecurityMatyc&layout=compact&hide_border=true&theme=github_dark" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=SecurityMatyc&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=synthwave&custom_title=Actividad%20General"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SecurityMatyc&layout=compact&hide_border=true&theme=synthwave"
+  />
 </p>
 
 ---
@@ -38,3 +46,4 @@ Busco mejorar cada día mis habilidades, aprender herramientas nuevas y construi
 <p align="center" style="opacity:0.6;font-size:12px;">
   Gracias por visitar mi perfil.
 </p>
+
