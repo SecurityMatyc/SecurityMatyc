@@ -14,9 +14,9 @@
 </p>
 
 ### 🌘 Sobre mí
-Me interesa profundamente la ciberseguridad y el análisis técnico de sistemas y redes en entornos digitales.  
-Disfruto investigar vulnerabilidades, entender cómo se construyen y protegen las infraestructuras y aplicar buenas prácticas de seguridad.  
-Me motiva aprender herramientas y metodologías nuevas para diseñar soluciones seguras, robustas y claras, siempre con foco en la protección de la información y la privacidad en el mundo digital.
+Me interesa la ciberseguridad y el análisis técnico de sistemas y redes en entornos digitales.  
+Disfruto investigar vulnerabilidades y aprender nuevas herramientas para diseñar soluciones seguras, claras y enfocadas en la protección de la información y la privacidad.
+
 
 
 <!-- Banner en medio -->
