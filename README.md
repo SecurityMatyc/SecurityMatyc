@@ -34,7 +34,7 @@ Busco mejorar cada día mis habilidades, aprender herramientas nuevas y construi
 
 ### 📫 Contacto
 - Email institucional: **matias.gajardo@inacapmail.cl**  
-- Email personal (opcional): *(si quieres agregarlo)*
+- Email personal: **mathi25gaj@gmail.com**
 
 <p align="center" style="opacity:0.6;font-size:12px;margin-top:12px;">
   Gracias por visitar mi perfil.
