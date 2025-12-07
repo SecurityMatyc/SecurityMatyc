@@ -6,19 +6,20 @@
   Estudiante de Ingeniería en Ciberseguridad — Chile
 </p>
 
-<p align="center">
-  <img
-    src="https://images.pexels.com/photos/5380649/pexels-photo-5380649.jpeg"
-    alt="Cybersecurity banner"
-    style="max-width:700px;width:100%;max-height:280px;object-fit:cover;border-radius:12px;border:1px solid #30363d;display:block;"
-  />
-</p>
-
 <hr style="border:0;border-top:1px solid #30363d;opacity:0.5;margin:18px 0;" />
 
 ### 🌘 Sobre mí
 Me interesa la ciberseguridad, el análisis técnico y el desarrollo de proyectos que integren lógica, diseño y tecnología.  
 Busco mejorar cada día mis habilidades, aprender herramientas nuevas y construir soluciones con un enfoque claro y preciso.
+
+<!-- Banner en medio -->
+<p align="center">
+  <img
+    src="https://images.pexels.com/photos/5380649/pexels-photo-5380649.jpeg"
+    alt="Cybersecurity banner"
+    style="max-width:900px;width:100%;max-height:270px;object-fit:cover;border-radius:12px;border:1px solid #30363d;display:block;margin-top:10px;margin-bottom:10px;"
+  />
+</p>
 
 <hr style="border:0;border-top:1px solid #30363d;opacity:0.5;margin:18px 0;" />
 
@@ -38,4 +39,3 @@ Busco mejorar cada día mis habilidades, aprender herramientas nuevas y construi
 <p align="center" style="opacity:0.6;font-size:12px;margin-top:12px;">
   Gracias por visitar mi perfil.
 </p>
-
