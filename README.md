@@ -8,13 +8,11 @@
 
 <!-- Banner -->
 <p align="center">
-  <a href="https://github.com/SecurityMatyc">
-    <img
-      src="https://images.pexels.com/photos/5380649/pexels-photo-5380649.jpeg"  <!-- CAMBIA ESTA URL POR TU IMAGEN -->
-      alt="Cybersecurity banner"
-      style="width:100%;max-width:900px;border-radius:12px;border:1px solid #30363d;"
-    />
-  </a>
+  <img
+    src="AQUÍ_VA_TU_URL_DE_IMAGEN"
+    alt="Cybersecurity banner"
+    style="max-width:900px;width:100%;max-height:420px;object-fit:cover;border-radius:12px;border:1px solid #30363d;display:block;"
+  />
 </p>
 
 <hr style="border:0;border-top:1px solid #30363d;opacity:0.5;margin:18px 0;" />
@@ -41,3 +39,4 @@ Busco mejorar cada día mis habilidades, aprender herramientas nuevas y construi
 <p align="center" style="opacity:0.6;font-size:12px;margin-top:12px;">
   Gracias por visitar mi perfil.
 </p>
+
