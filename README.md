@@ -10,7 +10,7 @@
   <img
     src="https://images.pexels.com/photos/5380649/pexels-photo-5380649.jpeg"
     alt="Cybersecurity banner"
-    style="max-width:700px;width:100%;max-height:320px;object-fit:cover;border-radius:12px;border:1px solid #30363d;display:block;"
+    style="max-width:700px;width:100%;max-height:280px;object-fit:cover;border-radius:12px;border:1px solid #30363d;display:block;"
   />
 </p>
 
