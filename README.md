@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Cybersecurity%20Student-0A0A0A?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity Student" />
 </p>
 
-### 🌘 Sobre mí
+### Sobre mí
 
 Me interesa la ciberseguridad, el desarrollo backend y el análisis técnico de sistemas y redes en entornos digitales.  
 Disfruto investigar vulnerabilidades y aprender nuevas herramientas para diseñar soluciones seguras, claras y enfocadas en la protección de la información y la privacidad.
@@ -28,7 +28,7 @@ Disfruto investigar vulnerabilidades y aprender nuevas herramientas para diseña
 
 <hr style="border:0;border-top:1px solid #30363d;opacity:0.5;margin:18px 0;" />
 
-### 🛠️ Tecnologías que utilizo
+### 🛠️ Tecnologías
 
 #### 💻 Desarrollo
 
@@ -45,7 +45,6 @@ Disfruto investigar vulnerabilidades y aprender nuevas herramientas para diseña
   <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="48" alt="Kali Linux" title="Kali Linux" />
   <img src="https://nmap.org/images/nmap-project-logo.svg" width="48" alt="Nmap" title="Nmap" />
   <img src="https://gitlab.com/wireshark/wireshark/-/raw/master/resources/wslogo.svg" width="48" alt="Wireshark" title="Wireshark" />
-  <img src="https://cdn.simpleicons.org/owasp/5A9FD4" width="48" alt="Seguridad web y OWASP" title="Seguridad web y OWASP" />
 </p>
 
 <hr style="border:0;border-top:1px solid #30363d;opacity:0.5;margin:18px 0;" />
